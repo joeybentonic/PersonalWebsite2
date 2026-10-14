@@ -16,16 +16,14 @@
 title: "Your Site Title"
 email: &EMAIL "username@example.edu"
 description:
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The goingson inside my mind...
 github_username: &GITHUB username
 minimal_mistakes_skin: default
 search: true
 
 
 author:
-  name   : "First Lastname"
+  name   : "Joseph Benton"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
